@@ -1,4 +1,20 @@
-# README
+# Desktop App
+
+![example_app](./docs/ScreenShot.png)
+
+## Getting Started
+
+Here some preparations that you might need before using this project.
+
+## Setup
+
+### Install frontend module
+
+```bash
+$ cd frontend/
+
+$ npm i
+```
 
 ## About
 
