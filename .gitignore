@@ -25,3 +25,4 @@ yarn-error.log*
 frontend/dist/*
 frontend/dist/assets/*
 .vscode/
+frontend/package-lock.json
